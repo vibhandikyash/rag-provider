@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+pinecone
+streamlit
+PyPDF2
+pymupdf
+python-multipart
+tiktoken
+streamlit
+langchain_openai
+langchain
+langchain_community
+requests
+langgraph
